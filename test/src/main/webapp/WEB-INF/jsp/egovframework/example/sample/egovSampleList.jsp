@@ -58,7 +58,7 @@
 </head>
 
 <body style="text-align:center; margin:0 auto; display:inline; padding-top:100px;">
-성호
+
     <form:form commandName="searchVO" id="listForm" name="listForm" method="post">
         <input type="hidden" name="selectedId" />
         <div id="content_pop">
